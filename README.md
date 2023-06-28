@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevin-wairi
-- 👀 I’m interested in Ruby
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in React and Ruby
+- 🌱 I’m currently learning Rails
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
