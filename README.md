@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @kevin-wairi
-- 👀 I’m a Full stack Developer
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ [I’m looking to collaborate on LinkedIn](https://www.linkedin.com/in/kevin-wairi-974904142)
-- 📫  [You can reach me on g-mail](kevinwairi@gmail.com)
+👋 Hey there, I'm Kevin Wairi, your friendly neighborhood Full Stack Developer!
 
-<!---
-kevin-wairi/kevin-wairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 With a keyboard as my trusty sidekick and code as my superpower, I'm on a mission to craft amazing web experiences with Ruby on Rails.
+
+🚀 Currently blasting off into the realms of Ruby on Rails, I'm exploring new galaxies of creativity and innovation to build the next generation of stellar web applications.
+
+💡 Got a project idea or looking to collaborate on something out of this world? Let's team up and create magic together! Connect with me on LinkedIn and let's make dreams come true.
+
+💌 Need to send an intergalactic message my way? Drop me a line at kevinwairi@gmail.com. I'm always up for a cosmic chat!
